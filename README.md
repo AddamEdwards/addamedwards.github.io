@@ -1,4 +1,4 @@
-# Addam Edwards
+# Addam Edwards GitHub Repository
 
 **PhD Candidate | Mechanical Engineering | Additive Manufacturing | Machine Learning**
 

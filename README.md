@@ -1,6 +1,6 @@
 # Addam Edwards GitHub Repository
 
-**PhD Candidate | Mechanical Engineering | Additive Manufacturing | Machine Learning**
+**PhD Candidate** | **Mechanical Engineering** | **Additive Manufacturing** | **Machine Learning**
 
 PhD candidate at The University of Western Australia researching in-situ monitoring of Laser Powder Bed Fusion additive manufacturing, with a focus on using machine learning to detect defects and sub-optimal process conditions. This website will serve as a repository of past and current research endeavours.
 

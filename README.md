@@ -47,7 +47,7 @@ Future datasets and code will be linked here.
 
 ## Links
 
-- [University research profile](https://research-repository.uwa.edu.au/en/persons/addam-edwards/)
+- [University Research Profile](https://research-repository.uwa.edu.au/en/persons/addam-edwards/)
 - [LinkedIn](https://www.linkedin.com/in/addam-edwards-a1a71b55/)
 - [Google Scholar](https://scholar.google.com/citations?user=Va1vhMIAAAAJ&hl=en&inst=3028249956058794315&oi=sra)
 - [ORCID](https://orcid.org/0009-0002-9493-6215)

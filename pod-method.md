@@ -5,7 +5,7 @@ title: POD Method
 
 # Probability of Detection (POD)
 
-Here I include an excerpt from recent work in which I detail the steps of the a-hat vs a POD evaluation framework which I apply to in-situ defect detection of laser powder bed fusion (L-PBF).
+Here I include an excerpt from recent work in which I detail the steps of the $\hat{a}$ vs. $a$ POD evaluation framework which I apply to in-situ defect detection of laser powder bed fusion (L-PBF).
 
 A standard NDE process for assessing detection performance with relation to defect size is the POD method (U.S. Department of Defense, 2009). This approach posits an underlying mathematical relationship between the probability of detecting a defect and the defect size (e.g. a larger defect has a higher probability of detection), with the parameters of this relationship estimated via Generalised Linear Modelling. The result is a cumulative distribution function (CDF) that describes the probability of a model detecting a defect as a function of defect size. The standard NDE reference metric, known as $a_{90/95}$ or the "reliably detected defect size", is then obtained from this CDF. It is the size that achieves a 90% probability of detection, with 95% confidence.
 

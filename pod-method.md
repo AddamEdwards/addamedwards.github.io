@@ -1,3 +1,14 @@
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 # Probability of Detection (POD)
 
 Here I include an excerpt from recent work in which I detail the steps of the a-hat vs a POD evaluation framework which I apply to in-situ defect detection of laser powder bed fusion (L-PBF).

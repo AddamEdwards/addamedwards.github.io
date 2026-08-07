@@ -51,6 +51,12 @@ Future datasets and code will be linked here.
 
 ---
 
+## Media Coverage 
+
+[In the small print: a safer and cost-effective future by design](https://www.uwa.edu.au/news/article/2025/april/in-the-small-print-a-safer-and-cost-effective-future-by-design)
+
+---
+
 ## Links
 
 - [University Research Profile](https://research-repository.uwa.edu.au/en/persons/addam-edwards/)

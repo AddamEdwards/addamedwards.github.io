@@ -31,7 +31,7 @@ PhD candidate at The University of Western Australia researching in-situ monitor
 
 ## Workflows
 
-[POD Method](./pod-method.md)
+[Calculating the Probability of Detection (POD)](./pod-method.md)
 
 ---
 
